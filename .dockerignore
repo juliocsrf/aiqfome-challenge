@@ -1,0 +1,13 @@
+.git
+.gitignore
+*.md
+*_test.go
+.env
+.env.local
+.vscode/
+.idea/
+docs/
+wire_gen.go
+Dockerfile
+docker-compose.yml
+.dockerignore
